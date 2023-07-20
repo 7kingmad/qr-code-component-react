@@ -1,7 +1,7 @@
 export default function QrCard() {
   return (
     <div className="card">
-      <img className="qr__img" src="./src/assets/image-qr-code.png" alt="" />
+      <img className="qr__img" src="./image-qr-code.png" alt="" />
       <div className="card__text">
         <h3>Improve your front-end skills by building projects</h3>
         <p>
