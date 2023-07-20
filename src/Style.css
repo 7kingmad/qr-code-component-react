@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
 :root {
-    max-width: 1440px;
     font-family: 'Outfit', sans-serif;
 
     --primary__white: hsl(0, 0%, 100%);
@@ -26,8 +25,6 @@ body {
 
 
 #root {
-    max-width: 1440px;
-    min-width: 375px;
     height: 100vh;
     background-color: var(--primary__light-gray);
     display: flex;
